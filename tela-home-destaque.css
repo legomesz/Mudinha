@@ -1,0 +1,1020 @@
+.tela-home-destaque-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.tela-home-destaque-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.tela-home-destaque-tela-home-destaques {
+  width: 100%;
+  height: 1107px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(241, 223, 190, 1);
+}
+.tela-home-destaque-text {
+  top: 380px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 39px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 47px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text02 {
+  top: 427px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-imag-pngtreecartoonarrowhanddrawnarrows38238583 {
+  top: 569px;
+  left: 1731px;
+  width: 145px;
+  height: 154px;
+  position: absolute;
+}
+.tela-home-destaque-group69 {
+  top: 484px;
+  left: 153px;
+  width: 1578px;
+  height: 324px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-home-destaque-image12 {
+  top: 0px;
+  left: 0px;
+  width: 369px;
+  height: 324px;
+  position: absolute;
+  border-radius: 20px;
+}
+.tela-home-destaque-image121 {
+  top: 0px;
+  left: 403px;
+  width: 369px;
+  height: 324px;
+  position: absolute;
+  border-radius: 20px;
+}
+.tela-home-destaque-image122 {
+  top: 0px;
+  left: 806px;
+  width: 369px;
+  height: 324px;
+  position: absolute;
+  border-radius: 20px;
+}
+.tela-home-destaque-image123 {
+  top: 0px;
+  left: 1209px;
+  width: 369px;
+  height: 324px;
+  position: absolute;
+  border-radius: 20px;
+}
+.tela-home-destaque-navlink {
+  display: contents;
+}
+.tela-home-destaque-image14 {
+  top: 367px;
+  left: 473px;
+  width: 77px;
+  height: 75px;
+  position: absolute;
+  text-decoration: none;
+}
+.tela-home-destaque-group70 {
+  top: 818px;
+  left: 223.375px;
+  width: 1436.512451171875px;
+  height: 209px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-home-destaque-rectangle27 {
+  left: 70px;
+  width: 72px;
+  bottom: -24px;
+  height: 28px;
+  position: absolute;
+  padding-top: 0px;
+  border-color: #000000;
+  padding-left: 0px;
+  border-radius: 20px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+.tela-home-destaque-text04 {
+  top: 67px;
+  left: 153.515625px;
+  color: rgba(218, 168, 29, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text06 {
+  left: 90.625px;
+  color: rgba(0, 0, 0, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text08 {
+  top: 92px;
+  left: 73px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 33px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text10 {
+  top: 125px;
+  color: rgba(0, 0, 0, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text11 {
+  font-weight: 400;
+}
+.tela-home-destaque-text12 {
+  font-weight: 700;
+}
+.tela-home-destaque-divtsshelfratesymbols {
+  top: 64px;
+  left: 48.625px;
+  width: 101px;
+  height: 19px;
+  position: absolute;
+}
+.tela-home-destaque-text14 {
+  left: 75px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  bottom: -37px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text16 {
+  top: 35px;
+  left: 62.625px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text18 {
+  left: 493.625px;
+  color: rgba(0, 0, 0, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text20 {
+  top: 92px;
+  left: 476px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 33px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text22 {
+  top: 125px;
+  left: 403px;
+  color: rgba(0, 0, 0, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text23 {
+  font-weight: 400;
+}
+.tela-home-destaque-text24 {
+  font-weight: 700;
+}
+.tela-home-destaque-text26 {
+  top: 67px;
+  left: 556.515625px;
+  color: rgba(218, 168, 29, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-divtsshelfratesymbols1 {
+  top: 64px;
+  left: 451.625px;
+  width: 101px;
+  height: 19px;
+  position: absolute;
+}
+.tela-home-destaque-text28 {
+  top: 35px;
+  left: 465.625px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text30 {
+  left: 896.625px;
+  color: rgba(0, 0, 0, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text32 {
+  top: 92px;
+  left: 879.625px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 33px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text34 {
+  top: 125px;
+  left: 806.625px;
+  color: rgba(0, 0, 0, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text35 {
+  font-weight: 400;
+}
+.tela-home-destaque-text36 {
+  font-weight: 700;
+}
+.tela-home-destaque-text38 {
+  top: 67px;
+  left: 962.515625px;
+  color: rgba(218, 168, 29, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-divtsshelfratesymbols2 {
+  top: 64px;
+  left: 857.625px;
+  width: 101px;
+  height: 19px;
+  position: absolute;
+}
+.tela-home-destaque-text40 {
+  top: 67px;
+  left: 1366.515625px;
+  color: rgba(218, 168, 29, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-divtsshelfratesymbols3 {
+  top: 64px;
+  left: 1261.625px;
+  width: 101px;
+  height: 19px;
+  position: absolute;
+}
+.tela-home-destaque-text42 {
+  top: 35px;
+  left: 878.625px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text44 {
+  left: 1299.625px;
+  color: rgba(0, 0, 0, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text46 {
+  top: 92px;
+  left: 1282px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 33px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text48 {
+  top: 125px;
+  left: 1209px;
+  color: rgba(0, 0, 0, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text49 {
+  font-weight: 400;
+}
+.tela-home-destaque-text50 {
+  font-weight: 700;
+}
+.tela-home-destaque-text52 {
+  top: 35px;
+  left: 1301.625px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-rectangle28 {
+  left: 482px;
+  width: 72px;
+  bottom: -24px;
+  height: 28px;
+  position: absolute;
+  border-radius: 20px;
+}
+.tela-home-destaque-text54 {
+  left: 487px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  bottom: -37px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-rectangle30 {
+  left: 884px;
+  width: 72px;
+  bottom: -24px;
+  height: 28px;
+  position: absolute;
+  border-radius: 20px;
+}
+.tela-home-destaque-text56 {
+  left: 889px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  bottom: -37px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-rectangle32 {
+  right: 79px;
+  width: 72px;
+  bottom: -24px;
+  height: 28px;
+  position: absolute;
+  border-radius: 20px;
+}
+.tela-home-destaque-text58 {
+  color: rgba(0, 0, 0, 1);
+  right: 83px;
+  width: 62px;
+  bottom: -37px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-rectangle21 {
+  top: 37px;
+  left: 0px;
+  width: 1920px;
+  height: 213px;
+  position: absolute;
+}
+.tela-home-destaque-navlink1 {
+  display: contents;
+}
+.tela-home-destaque-icon {
+  top: 3px;
+  fill: #000000;
+  left: 24px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.tela-home-destaque-group59 {
+  top: 114px;
+  left: 480px;
+  width: 960.109375px;
+  height: 59.015625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-home-destaque-divsearchformwrapperinput {
+  top: 5px;
+  left: 0px;
+  width: 676.953125px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tela-home-destaque-inputsearchforminput {
+  top: 0px;
+  left: 0px;
+  width: 677px;
+  display: flex;
+  padding: 17px 51px 17px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 20px;
+  background-color: rgba(251, 240, 240, 1);
+}
+.tela-home-destaque-divplaceholder {
+  display: flex;
+  padding: 0 571.953125px 0 0;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.tela-home-destaque-text60 {
+  color: rgba(3, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-buttondropdowntoggle {
+  gap: 4.984375px;
+  top: 5px;
+  left: 690.40625px;
+  display: flex;
+  padding: 13px 20.703125px 13px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-radius: 20px;
+  text-decoration: none;
+  background-color: rgba(251, 240, 240, 1);
+}
+.tela-home-destaque-text62 {
+  color: rgba(3, 2, 2, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-meu-carrinho {
+  gap: 4.15625px;
+  top: 0px;
+  left: 854px;
+  display: flex;
+  padding: 15px 24.828125px 15.015625px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-home-destaque-image63197442715493461961281 {
+  width: 25px;
+  height: 29px;
+}
+.tela-home-destaque-text64 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  opacity: 0.50;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-navlink2 {
+  display: contents;
+}
+.tela-home-destaque-image1 {
+  top: 106px;
+  left: 9px;
+  width: 79px;
+  height: 74px;
+  position: absolute;
+  text-decoration: none;
+}
+.tela-home-destaque-group26 {
+  top: -6px;
+  left: 515px;
+  width: 889px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-home-destaque-group25 {
+  left: 0px;
+  right: 0px;
+  width: 889px;
+  bottom: -12px;
+  height: 42px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-home-destaque-text65 {
+  color: rgba(0, 0, 0, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text67 {
+  left: 74px;
+  color: rgba(0, 0, 0, 1);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text69 {
+  left: 230px;
+  color: rgba(255, 0, 0, 1);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text71 {
+  left: 364px;
+  color: rgba(255, 0, 0, 1);
+  width: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text73 {
+  left: 604px;
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text75 {
+  left: 765px;
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-group66 {
+  top: 267px;
+  left: 519px;
+  width: 881.34375px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-home-destaque-text77 {
+  top: 0px;
+  color: rgba(0, 0, 0, 1);
+  width: 43px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text79 {
+  top: 0px;
+  left: 77px;
+  color: rgba(0, 0, 0, 1);
+  width: 112px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-frame {
+  top: 16.973968505859375px;
+  left: 315.2890625px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tela-home-destaque-text81 {
+  left: 223px;
+  color: rgba(0, 0, 0, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text83 {
+  top: 0px;
+  left: 417px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-frame1 {
+  top: 16.973968505859375px;
+  left: 739.640625px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tela-home-destaque-text85 {
+  left: 588px;
+  color: rgba(0, 0, 0, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text87 {
+  left: 709px;
+  color: rgba(0, 0, 0, 1);
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text89 {
+  top: 0px;
+  left: 791px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-text90 {
+  top: 0px;
+  left: 804.34375px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-home-destaque-select {
+  top: 914px;
+  left: 255px;
+  position: absolute;
+}
+.tela-home-destaque-select1 {
+  top: 914px;
+  left: 658px;
+  position: absolute;
+}
+.tela-home-destaque-select2 {
+  top: 914px;
+  left: 1061px;
+  position: absolute;
+}
+.tela-home-destaque-select3 {
+  top: 914px;
+  left: 1462px;
+  position: absolute;
+}
+.tela-home-destaque-navlink3 {
+  display: contents;
+}
+.tela-home-destaque-icon2 {
+  top: 6px;
+  left: 64px;
+  width: 25px;
+  bottom: 0px;
+  height: 25px;
+  position: absolute;
+  text-decoration: none;
+}

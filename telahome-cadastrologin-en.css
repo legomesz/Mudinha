@@ -1,0 +1,656 @@
+.telahome-cadastrologin-en-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.telahome-cadastrologin-en-tela-home-login-cadastro {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(3, 2, 2, 1);
+  background-color: #f1dfbe;
+}
+.telahome-cadastrologin-en-rectangle21 {
+  top: 41px;
+  left: 0px;
+  width: 1920px;
+  height: 213px;
+  position: absolute;
+}
+.telahome-cadastrologin-en-group59 {
+  top: 118px;
+  left: 480px;
+  width: 960.109375px;
+  height: 59.015625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.telahome-cadastrologin-en-divsearchformwrapperinput {
+  top: 5px;
+  left: 0px;
+  width: 676.953125px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.telahome-cadastrologin-en-inputsearchforminput {
+  top: 0px;
+  left: 0px;
+  width: 677px;
+  height: 49px;
+  display: flex;
+  padding: 17px 51px 17px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 20px;
+  background-color: rgba(251, 240, 240, 1);
+}
+.telahome-cadastrologin-en-divplaceholder {
+  display: flex;
+  padding: 0 571.953125px 0 0;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.telahome-cadastrologin-en-text {
+  color: rgb(3, 2, 2);
+  height: auto;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text02 {
+  color: #030202;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-buttondropdowntoggle {
+  gap: 4.984375px;
+  top: 5px;
+  left: 690.40625px;
+  display: flex;
+  padding: 13px 20.703125px 13px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-radius: 20px;
+  background-color: rgba(251, 240, 240, 1);
+}
+.telahome-cadastrologin-en-text04 {
+  color: rgb(3, 2, 2);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-meu-carrinho {
+  gap: 4.15625px;
+  top: 0px;
+  left: 854px;
+  display: flex;
+  padding: 15px 24.828125px 15.015625px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.telahome-cadastrologin-en-image63197442715493461961281 {
+  width: 25px;
+  height: 29px;
+}
+.telahome-cadastrologin-en-text05 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-image1 {
+  top: 110px;
+  left: 9px;
+  width: 79px;
+  height: 74px;
+  position: absolute;
+}
+.telahome-cadastrologin-en-group26 {
+  top: 0px;
+  left: 516px;
+  width: 889px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.telahome-cadastrologin-en-group25 {
+  top: 10px;
+  left: 0px;
+  right: 0px;
+  width: 889px;
+  height: 42px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.telahome-cadastrologin-en-text06 {
+  color: rgb(0, 0, 0);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text07 {
+  left: 74px;
+  color: rgb(0, 0, 0);
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text09 {
+  color: #000000;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text11 {
+  left: 230px;
+  color: rgb(255, 0, 0);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text12 {
+  font-size: 13px;
+}
+.telahome-cadastrologin-en-text13 {
+  color: #ff0000;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text15 {
+  left: 364px;
+  color: rgba(255, 0, 0, 1);
+  width: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text17 {
+  left: 604px;
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text19 {
+  left: 765px;
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-group65 {
+  top: 267px;
+  left: 519px;
+  width: 554px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.telahome-cadastrologin-en-text21 {
+  top: 0px;
+  color: #000000;
+  width: 43px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text22 {
+  top: 0px;
+  left: 77px;
+  color: rgb(255, 255, 255);
+  width: 112px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text23 {
+  color: #000000;
+}
+.telahome-cadastrologin-en-text24 {
+  color: #000000;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-spanmainmenulevel1text {
+  gap: 0.203125px;
+  top: 6.984375px;
+  left: 315.2890625px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.telahome-cadastrologin-en-text26 {
+  left: 223px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text27 {
+  color: #000000;
+}
+.telahome-cadastrologin-en-text28 {
+  color: #000000;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-spanmainmenulevel1text1 {
+  gap: 0.5625px;
+  top: 0px;
+  left: 417px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.telahome-cadastrologin-en-text30 {
+  color: rgb(255, 255, 255);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text31 {
+  color: #000000;
+}
+.telahome-cadastrologin-en-text32 {
+  color: #000000;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-rectangle10 {
+  top: 173px;
+  left: 1083px;
+  width: 300px;
+  height: 211px;
+  position: absolute;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25) ;
+}
+.telahome-cadastrologin-en-text34 {
+  top: 177px;
+  left: 1086px;
+  color: rgb(0, 0, 0);
+  width: 299px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text35 {
+  top: 319px;
+  left: 1108px;
+  color: rgb(0, 0, 0);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text36 {
+  top: 318px;
+  left: 1242px;
+  color: rgb(0, 0, 0);
+  width: 135px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-navlink {
+  display: contents;
+}
+.telahome-cadastrologin-en-icon {
+  top: 3px;
+  fill: #000000;
+  left: 24px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.telahome-cadastrologin-en-imag-pngtreecartoonarrowhanddrawnarrows38238582 {
+  top: 798px;
+  left: 1479px;
+  width: 155px;
+  height: 140px;
+  position: absolute;
+}
+.telahome-cadastrologin-en-group67 {
+  top: 612px;
+  left: 441px;
+  width: 1038px;
+  height: 393px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: var(--dl-color-gray-black);
+  border-width: 0px;
+}
+.telahome-cadastrologin-en-rectangle22 {
+  top: 120px;
+  left: 0px;
+  width: 246px;
+  height: 273px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+}
+.telahome-cadastrologin-en-rectangle23 {
+  top: 119px;
+  left: 266px;
+  width: 247px;
+  height: 274px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+}
+.telahome-cadastrologin-en-rectangle25 {
+  top: 119px;
+  left: 800px;
+  width: 238px;
+  height: 274px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+}
+.telahome-cadastrologin-en-rectangle24 {
+  top: 119px;
+  left: 533px;
+  width: 247px;
+  height: 274px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+}
+.telahome-cadastrologin-en-text37 {
+  top: 29px;
+  left: 313px;
+  height: auto;
+  position: absolute;
+  font-size: 39px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 0px 0px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 47px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text39 {
+  font-size: 39px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 0px 0px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 47px;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-navlink1 {
+  display: contents;
+}
+.telahome-cadastrologin-en-image13 {
+  top: 0px;
+  left: 684px;
+  width: 120px;
+  height: 105px;
+  position: absolute;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-group61 {
+  top: 473px;
+  left: 9px;
+  width: 413px;
+  height: 135px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.telahome-cadastrologin-en-text41 {
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 39px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 47px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text43 {
+  color: #000000;
+  font-size: 39px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 47px;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text45 {
+  top: 47px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text47 {
+  color: #000000;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-abtforwardbutton {
+  top: 85px;
+  left: 0px;
+  width: 177.40625px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  text-decoration: none;
+  background-color: rgba(255, 121, 1, 1);
+}
+.telahome-cadastrologin-en-text49 {
+  top: 0px;
+  left: 0px;
+  color: rgb(251, 240, 240);
+  right: 0px;
+  width: 138px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-text51 {
+  color: #fbf0f0;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  text-decoration: none;
+}
+.telahome-cadastrologin-en-navlink2 {
+  display: contents;
+}
+.telahome-cadastrologin-en-icon2 {
+  top: 6px;
+  fill: #000000;
+  left: 64px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  text-decoration: none;
+}

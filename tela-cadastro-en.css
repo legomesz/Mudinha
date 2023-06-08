@@ -1,0 +1,733 @@
+.tela-cadastro-en-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.tela-cadastro-en-tela-cadastro {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: #f1dfbe;
+}
+.tela-cadastro-en-rectangle1 {
+  top: 303px;
+  left: 0px;
+  width: 1920px;
+  height: 777px;
+  position: absolute;
+}
+.tela-cadastro-en-group73 {
+  top: 348px;
+  left: 95px;
+  width: 1730px;
+  height: 686px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(2, 124, 0, 0.3499999940395355);
+}
+.tela-cadastro-en-text {
+  top: 77px;
+  left: 171px;
+  color: rgb(0, 0, 0);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-rectangle3 {
+  top: 258px;
+  left: 171px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+.tela-cadastro-en-text01 {
+  top: 262px;
+  left: 234px;
+  color: rgb(0, 0, 0);
+  width: 424px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text03 {
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  text-decoration: none;
+}
+.tela-cadastro-en-rectangle6input {
+  top: 294px;
+  left: 751px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+.tela-cadastro-en-text05 {
+  top: 294px;
+  left: 749px;
+  color: rgb(0, 0, 0);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-rectangle7input {
+  top: 371px;
+  left: 751px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+.tela-cadastro-en-text06 {
+  top: 372px;
+  left: 750px;
+  color: rgb(0, 0, 0);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text08 {
+  color: #000000;
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  text-decoration: none;
+}
+.tela-cadastro-en-rectangle4 {
+  top: 327px;
+  left: 171px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+.tela-cadastro-en-text10 {
+  top: 324px;
+  left: 167px;
+  color: rgba(0, 0, 0, 1);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-rectangle5input {
+  top: 396px;
+  left: 171px;
+  width: 550px;
+  height: 50px;
+  position: absolute;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+.tela-cadastro-en-text12 {
+  top: 395px;
+  left: 167px;
+  color: rgba(0, 0, 0, 1);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-navlink {
+  display: contents;
+}
+.tela-cadastro-en-rectangle9button {
+  top: 488px;
+  left: 1381px;
+  width: 190px;
+  height: 23px;
+  position: absolute;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.tela-cadastro-en-text14 {
+  top: 476px;
+  color: rgb(140, 132, 132);
+  right: 168px;
+  width: 169px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text16 {
+  color: #8c8484;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  text-decoration: none;
+}
+.tela-cadastro-en-rectangle8 {
+  top: 189px;
+  left: 1349px;
+  width: 254px;
+  height: 254px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.tela-cadastro-en-text18 {
+  top: 298px;
+  color: rgb(0, 0, 0);
+  right: 179px;
+  width: 157px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text20 {
+  color: #000000;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 50px;
+  text-decoration: none;
+}
+.tela-cadastro-en-rectangle21 {
+  top: 33px;
+  left: 0px;
+  width: 1920px;
+  height: 213px;
+  position: absolute;
+}
+.tela-cadastro-en-group59 {
+  top: 110px;
+  left: 480px;
+  width: 960.109375px;
+  height: 59.015625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-cadastro-en-divsearchformwrapperinput {
+  top: 5px;
+  left: 0px;
+  width: 676.953125px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tela-cadastro-en-inputsearchforminput {
+  top: 0px;
+  left: 0px;
+  width: 677px;
+  display: flex;
+  padding: 17px 51px 17px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 20px;
+  background-color: rgba(251, 240, 240, 1);
+}
+.tela-cadastro-en-divplaceholder {
+  display: flex;
+  padding: 0 571.953125px 0 0;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.tela-cadastro-en-text22 {
+  color: rgba(3, 2, 2, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-buttondropdowntoggle {
+  gap: 4.984375px;
+  top: 5px;
+  left: 690.40625px;
+  display: flex;
+  padding: 13px 20.703125px 13px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-radius: 20px;
+  background-color: rgba(251, 240, 240, 1);
+}
+.tela-cadastro-en-text24 {
+  color: rgba(3, 2, 2, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.000099182128906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-meu-carrinho {
+  gap: 4.15625px;
+  top: 0px;
+  left: 854px;
+  display: flex;
+  padding: 15px 24.828125px 15.015625px 19.984375px;
+  position: absolute;
+  align-items: center;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tela-cadastro-en-image63197442715493461961281 {
+  width: 25px;
+  height: 29px;
+}
+.tela-cadastro-en-text26 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-image1 {
+  top: 102px;
+  left: 9px;
+  width: 79px;
+  height: 74px;
+  position: absolute;
+}
+.tela-cadastro-en-group26 {
+  top: 0px;
+  left: 515px;
+  width: 889px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-cadastro-en-group25 {
+  left: 0px;
+  width: 889px;
+  bottom: -4px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-cadastro-en-text27 {
+  color: rgb(255, 255, 255);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text28 {
+  color: #000000;
+}
+.tela-cadastro-en-text29 {
+  color: #000000;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  text-decoration: none;
+}
+.tela-cadastro-en-text31 {
+  left: 74px;
+  color: #000000;
+  width: 119px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text33 {
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  text-decoration: none;
+}
+.tela-cadastro-en-text35 {
+  left: 230px;
+  color: rgb(255, 0, 0);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text36 {
+  left: 364px;
+  color: rgb(255, 0, 0);
+  width: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text37 {
+  left: 604px;
+  color: #000000;
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text38 {
+  left: 765px;
+  color: #000000;
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-group66 {
+  top: 251px;
+  left: 515px;
+  width: 881.34375px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tela-cadastro-en-text39 {
+  top: 0px;
+  color: #000000;
+  width: 43px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text40 {
+  top: 0px;
+  left: 77px;
+  color: #000000;
+  width: 112px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text42 {
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  text-decoration: none;
+}
+.tela-cadastro-en-frame {
+  top: 18.67136573791504px;
+  left: 315.2890625px;
+  width: 16px;
+  height: 17.600000381469727px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tela-cadastro-en-text44 {
+  left: 223px;
+  color: rgb(255, 254, 254);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text45 {
+  color: #000000;
+}
+.tela-cadastro-en-text46 {
+  color: #000000;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  text-decoration: none;
+}
+.tela-cadastro-en-text48 {
+  top: 0px;
+  left: 417px;
+  color: rgb(255, 255, 255);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text49 {
+  color: #000000;
+}
+.tela-cadastro-en-text50 {
+  color: #000000;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  text-decoration: none;
+}
+.tela-cadastro-en-frame1 {
+  top: 18.67136573791504px;
+  left: 739.640625px;
+  width: 16px;
+  height: 17.600000381469727px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tela-cadastro-en-text52 {
+  left: 588px;
+  color: #000000;
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text53 {
+  left: 709px;
+  color: #000000;
+  width: 48px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text54 {
+  top: 0px;
+  color: #f7f7f7;
+  right: 79px;
+  width: 11px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-text55 {
+  top: 0px;
+  left: 804.34375px;
+  color: #000000;
+  width: 77px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24.0001px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tela-cadastro-en-navlink1 {
+  display: contents;
+}
+.tela-cadastro-en-icon {
+  top: 3px;
+  fill: #000000;
+  left: 24px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.tela-cadastro-en-navlink2 {
+  display: contents;
+}
+.tela-cadastro-en-icon2 {
+  top: 6px;
+  left: 64px;
+  width: 25px;
+  bottom: 0px;
+  height: 25px;
+  position: absolute;
+  text-decoration: none;
+}
